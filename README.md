@@ -9,7 +9,7 @@ $ git clone url
 npm install
 ```
 #####这一步可能会需要些时间，跟据网络快慢决定
-![描述](https://clearself.github.io/react/image/react_1.png "图片描述")
+![描述](https://clearself.github.io/react/image/react_1.jpg "图片描述")
 
 ###3、运行项目执行下面命令：
 ```python
